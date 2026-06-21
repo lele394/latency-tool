@@ -1,0 +1,8 @@
+{
+  "name": "Nebuleo Latency Tool",
+  "description": "High-performance geospatial latency monitor with custom server management, diagnostic exports, and real-time visualization.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
